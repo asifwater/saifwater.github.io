@@ -1,0 +1,27 @@
+.a {
+	width: 420px;
+	height: 400px;
+	float: left;
+	margin-top: 0px;
+	margin-left: 0px;
+	}
+.b{
+	
+	float: left;
+	width: 70px;
+	height: 100px;
+	margin-left: 45px;
+}
+footer {
+	background-color: #e6c31ad6;
+	height: 20px;
+}
+footer .info {
+	padding-top: 0px;
+	text-align: center;
+	color: #a22525;
+	clear: both;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 10px;
+}
